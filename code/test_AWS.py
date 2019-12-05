@@ -283,8 +283,8 @@ def getFrames(file_name, file_output, start_frame=0, end_frame=20, step=1):
     return images
 
 
-test_image = "../data/qy6dlGpC3Ns.mp4"
-out_image = "../data/qy6dlGpC3Ns_wAnnot"
+test_image = "../data/vids/4nHElVbT3HY.mp4"
+out_image = "../data/4nHElVbT3HY_wAnnot"
 
 t = time.time()
 # Step1: Get images

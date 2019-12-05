@@ -1,6 +1,11 @@
 _ref/
 _code_dwnlds/
-data/frames
-data/vids
+.ipynb_checkpoints/
+data/
+code/.ipynb_checkpoints/
+code/logs/
+models/
+preds/
+presentation/
 resources/
 models/
